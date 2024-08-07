@@ -1,0 +1,33 @@
+<!-- Description:
+
+Like radio buttons, form data for selected checkboxes are name / value attribute pairs. While the value attribute is optional, it's best practice to include it with any checkboxes or radio buttons on the page.
+
+Add a value attribute to each checkbox. For convenience, set each checkbox's value attribute to the same value as its id attribute.
+
+Solution: -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <fieldset>
+        <legend>Is your cat an indoor or outdoor cat?</legend>
+        <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> Indoor</label>
+        <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label>
+    </fieldset>
+    <fieldset>
+        <legend>What's your cat's personality?</legend>
+        <input id="loving" type="checkbox" value="loving" name="personality"> <label for="loving">Loving</label>
+        <input id="lazy" type="checkbox" value="lazy" name="personality"> <label for="lazy">Lazy</label>
+        <input id="energetic" type="checkbox" value="energetic" name="personality"> <label for="energetic">
+            Energetic</label>
+    </fieldset>
+</body>
+
+</html>

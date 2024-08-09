@@ -1,0 +1,15 @@
+/* Description:
+
+That brown background makes it hard to read the text. Change the body element's background color to be burlywood so it has some color but you are still be able to read the text.
+
+Solution: */
+
+h1,
+h2,
+p {
+    text-align: center;
+}
+
+body {
+    background-color: burlywood;
+}

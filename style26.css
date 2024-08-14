@@ -1,0 +1,12 @@
+/* Description:
+
+Change the existing #menu selector into a class selector by replacing #menu with a class named .menu.
+
+Solution: */
+
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}

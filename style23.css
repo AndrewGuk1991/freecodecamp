@@ -1,0 +1,10 @@
+/* Description:
+
+Now use the existing #menu selector to set the background color of the div element to be burlywood.
+
+Solution: */
+
+#menu {
+    width: 300px;
+    background-color: burlywood;
+}

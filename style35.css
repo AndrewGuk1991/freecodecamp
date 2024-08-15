@@ -1,0 +1,9 @@
+/* Description:
+
+Now align the text to the right for the elements with the price class.
+
+Solution: */
+
+.price {
+    text-align: right;
+}

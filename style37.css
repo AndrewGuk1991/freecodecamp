@@ -1,0 +1,10 @@
+/* Description:
+
+Using the above selector, add a display property with value inline-block so the p elements behave more like inline elements.
+
+Solution: */
+
+.item p { 
+    display: inline-block;
+}
+

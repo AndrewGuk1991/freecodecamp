@@ -1,0 +1,10 @@
+/* Description:
+
+Change all the text in your body, by adding a font-family property with the value sans-serif. This is a fairly common font that is very readable.
+
+Solution: */
+
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    font-family: sans-serif
+}

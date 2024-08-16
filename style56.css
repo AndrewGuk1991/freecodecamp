@@ -1,0 +1,14 @@
+/* Description:
+
+Add a max-width property to the menu class with a value of 500px to prevent it from growing too wide.
+
+Solution:  */
+
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px
+}

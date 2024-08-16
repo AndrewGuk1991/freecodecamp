@@ -1,0 +1,9 @@
+/* Description: 
+
+Moving down to the footer element, make all the text have a value of 14px for the font size.
+
+Solution:  */
+
+footer {
+    font-size: 14px;
+}

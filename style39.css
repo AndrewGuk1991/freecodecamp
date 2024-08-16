@@ -1,0 +1,15 @@
+/* Description:
+
+Change the width value to 49% for each class to see what happens
+
+Solution: */
+
+.flavor {
+    text-align: left;
+    width: 49%;
+}
+
+.price {
+    text-align: right;
+    width: 49%;
+}

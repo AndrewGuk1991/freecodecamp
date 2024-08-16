@@ -1,0 +1,9 @@
+/* Description: 
+
+Add the fallback font serif after the Impact font.
+
+Solution:  */
+
+h1, h2 {
+    font-family: Impact, serif;
+}

@@ -1,0 +1,9 @@
+/* Description: 
+
+Style both the h1 and the h2 elements using a single selector so that these elements' text use Impact font.
+
+Solution:  */
+
+h1, h2 {
+    font-family: Impact;
+}

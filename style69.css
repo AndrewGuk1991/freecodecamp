@@ -1,0 +1,11 @@
+/* Description: 
+
+Make all the edges of the hr element the same color as the background of it using the border-color property.
+
+Solution:  */
+
+hr {
+    height: 3px;
+    background-color: brown;
+    border-color: brown;
+}

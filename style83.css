@@ -1,0 +1,17 @@
+/* Description: 
+
+To keep with the same color theme you have already been using (black and brown), change the color for when the link is visited to black and use brown for when the link is actually clicked.
+
+Solution:  */
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: grey;
+}
+
+a:active {
+    color: brown;
+}

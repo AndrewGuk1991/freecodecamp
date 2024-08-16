@@ -1,0 +1,11 @@
+/* Description: 
+
+Change the height property of the hr to be 2px, so the total height of it becomes 4px.
+
+Solution:  */
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}

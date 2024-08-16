@@ -1,0 +1,9 @@
+/* Description: 
+
+Change the height of the hr element to be 3px.
+
+Solution:  */
+
+hr {
+    height: 3px
+}

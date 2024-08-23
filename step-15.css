@@ -1,0 +1,12 @@
+/* Description: 
+
+In your .marker CSS rule, set the margin property to 10px auto.
+
+Solution:  */
+
+.marker {
+  width: 200px;
+  height: 25px;
+  background-color: red;
+  margin: 10px auto;
+}

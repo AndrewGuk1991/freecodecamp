@@ -1,0 +1,9 @@
+/* Description: 
+
+In the .one CSS rule, replace the color keyword red with the rgb function. For the rgb function, set the value for red to 255, the value for green to 0, and the value for blue to 0.
+
+Solution:  */
+
+.one {
+    background-color: rgb(255, 0, 0);
+}

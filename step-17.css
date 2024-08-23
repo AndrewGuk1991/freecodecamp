@@ -1,0 +1,11 @@
+/* Description: 
+
+Next, remove the background-color property and its value from the .marker CSS rule.
+
+Solution:  */
+
+.marker {
+    width: 200px;
+    height: 25px;
+    margin: 10px auto;
+}

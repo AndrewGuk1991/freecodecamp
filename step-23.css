@@ -1,0 +1,13 @@
+/* Description: 
+
+In the .two CSS rule, use the rgb function to set the background-color to the max value for green, and 0 for the other values. And in the .three CSS rule, use the rgb function to set the background-color to the max value for blue, and 0 for the other values.
+
+Solution:  */
+
+.two {
+    background-color: rgb(0, 255, 0);
+}
+
+.three {
+    background-color: rgb(0, 0, 255);
+}

@@ -1,0 +1,9 @@
+/* Description: 
+
+Create a new CSS rule that targets the class container and set its background-color to black with rgb(0, 0, 0).
+
+Solution:  */
+
+.container {
+    background-color: rgb(0, 0, 0);
+}

@@ -1,0 +1,12 @@
+/* Description: 
+
+To center your marker on the page, set its margin property to auto. This sets margin-top, margin-right, margin-bottom, and margin-left all to auto.
+
+Solution:  */
+
+.marker {
+    width: 200px;
+    height: 25px;
+    background-color: red;
+    margin: auto;
+}

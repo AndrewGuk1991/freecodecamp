@@ -1,0 +1,9 @@
+/* Description: 
+
+In the .two CSS rule, set the green value in the rgb function to 127 to lower its intensity.
+
+Solution:  */
+
+.two {
+    background-color: rgb(0, 127, 0);
+}

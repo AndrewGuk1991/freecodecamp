@@ -1,0 +1,9 @@
+/* Description: 
+
+Then, create a new CSS rule that targets the class one and set its background-color property to red.
+
+Solution:  */
+
+.one {
+    background-color: red;
+}

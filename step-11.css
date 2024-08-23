@@ -1,0 +1,9 @@
+/* Description: 
+
+Create a new CSS rule that targets the class marker, and set its background-color property to red.
+
+Solution:  */
+
+.marker {
+    background-color: red;
+}

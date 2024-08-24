@@ -1,0 +1,9 @@
+/* Description: 
+
+In the .blue CSS rule, change the background-color property to background.
+
+Solution:  */
+
+.blue {
+    background: hsl(240, 100%, 50%);
+}

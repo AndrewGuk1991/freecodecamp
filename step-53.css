@@ -1,0 +1,9 @@
+/* Description: 
+
+Use the rgb function to add pure blue as the third color argument to the linear-gradient function.
+
+Solution:  */
+
+.red {
+    background: linear-gradient(90deg, rgb(255, 0, 0), rgb(0, 255, 0), rgb(0, 0, 255));
+}

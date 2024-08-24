@@ -1,0 +1,9 @@
+/* Description: 
+
+Lower the intensity of green by setting the green value of the hex color to 7F.
+
+Solution:  */
+
+.green {
+    background-color: #007F00;
+}

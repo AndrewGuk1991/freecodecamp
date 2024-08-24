@@ -1,0 +1,9 @@
+/* Description: 
+
+In the linear-gradient function, add a 75% color stop after the first red color argument. Do not add color stops to the other colors arguments.
+
+Solution:  */
+
+.red {
+    background: linear-gradient(90deg, rgb(255, 0, 0) 75%, rgb(0, 255, 0), rgb(0, 0, 255));
+}

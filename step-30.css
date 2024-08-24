@@ -1,0 +1,9 @@
+/* Description: 
+
+To create the final secondary color, magenta, update the rgb function in the .three CSS rule to combine pure blue and pure red.
+
+Solution:  */
+
+.three {
+    background-color: rgb(255, 0, 255);
+}

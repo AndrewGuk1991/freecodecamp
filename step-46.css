@@ -1,0 +1,9 @@
+/* Description: 
+
+In the .green class selector, set the background-color property to a hex color code with the values 00 for red, FF for green, and 00 blue.
+
+Solution:  */
+
+.green {
+    background-color: #00FF00;
+}

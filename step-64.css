@@ -1,0 +1,9 @@
+/* Description: 
+
+In the .red CSS rule, remove the three color stops from the linear-gradient function to clean up your code a bit.
+
+Solution:  */
+
+.red {
+    background: linear-gradient(180deg, rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+}

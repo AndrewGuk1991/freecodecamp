@@ -1,0 +1,9 @@
+/* Description: 
+
+For now, use the rgb function in the .two CSS rule to set the background-color to black.
+
+Solution:  */
+
+.two {
+    background-color: rgb(0, 0, 0);
+}

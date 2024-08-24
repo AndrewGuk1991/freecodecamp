@@ -1,0 +1,9 @@
+/* Description: 
+
+To create the first secondary color, yellow, update the rgb function in the .one CSS rule to combine pure red and pure green.
+
+Solution:  */
+
+.one {
+    background-color: rgb(255, 255, 0);
+}

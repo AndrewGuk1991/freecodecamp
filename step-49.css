@@ -1,0 +1,9 @@
+/* Description: 
+
+In the .red CSS rule, change the background-color property to background.
+
+Solution:  */
+
+.red {
+    background: rgb(255, 0, 0);
+}

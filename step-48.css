@@ -1,0 +1,9 @@
+/* Description: 
+
+In the .blue CSS rule, use the hsl function to change the background-color property to pure blue. Set the hue to 240, the saturation to 100%, and the lightness to 50%.
+
+Solution:  */
+
+.blue {
+    background-color: hsl(240, 100%, 50%);
+}

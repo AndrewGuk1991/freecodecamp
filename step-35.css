@@ -1,0 +1,17 @@
+/* Description: 
+
+First, in the CSS rules .one, .two, and .three, adjust the values in the rgb function so that the background-color of each element is set to pure black. Remember that the rgb function uses the additive color model, where colors start as black and change as the values of red, green, and blue increase.
+
+Solution:  */
+
+.one {
+    background-color: rgb(0, 0, 0);
+}
+
+.two {
+    background-color: rgb(0, 0, 0);
+}
+
+.three {
+    background-color: rgb(0, 0, 0);
+}

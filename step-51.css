@@ -1,0 +1,9 @@
+/* Description: 
+
+In the linear-gradient function, use the rgb function to set the first color argument to pure red.
+
+Solution:  */
+
+.red {
+    background: linear-gradient(90deg, rgb(255, 0, 0));
+}

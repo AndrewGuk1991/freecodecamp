@@ -1,0 +1,13 @@
+/* Description: 
+
+In the rgb function for the .one CSS rule, set the red value to the max of 255 to produce pure red. In the rgb function for .two CSS rule, set the values for green and blue to the max of 255 to produce cyan.
+
+Solution:  */
+
+.one {
+    background-color: rgb(255, 0, 0);
+}
+
+.two {
+    background-color: rgb(0, 255, 255);
+}

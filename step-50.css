@@ -1,0 +1,9 @@
+/* Description: 
+
+First, in the .red CSS rule, set the background property to linear-gradient(), and pass it the value 90deg as the gradientDirection.
+
+Solution:  */
+
+.red {
+    background: linear-gradient(90deg);
+}

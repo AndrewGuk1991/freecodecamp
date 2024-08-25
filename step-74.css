@@ -1,0 +1,11 @@
+/* Description: 
+
+Inside the .sleeve rule, remove the opacity property and value.
+
+Solution:  */
+
+.sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: white;
+}

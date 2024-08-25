@@ -1,0 +1,12 @@
+/* Description: 
+
+In the .sleeve CSS rule, set the opacity property to 0.5.
+
+Solution:  */
+
+.sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: white;
+    opacity: 0.5;
+}

@@ -1,0 +1,10 @@
+/* Description: 
+
+In the .red CSS rule, add the box-shadow property with the values 5px for offsetX, 5px for offsetY, and red for color.
+
+Solution:  */
+
+.red {
+    background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+    box-shadow: 5px 5px red;
+}

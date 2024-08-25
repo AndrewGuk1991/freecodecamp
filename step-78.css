@@ -1,0 +1,10 @@
+/* Description: 
+
+Create a new rule to target both the cap and sleeve classes, and set display to inline-block.
+
+Solution:  */
+
+.cap, 
+.sleeve {
+  display: inline-block;
+}

@@ -1,0 +1,15 @@
+/* Description: 
+
+During development, it is useful to see the fieldset default borders. However, they make the content appear too separated.
+
+Remove the border, and add 2rem of padding only to the top and bottom of each fieldset. Be sure to remove the padding from the left and right.
+
+Solution:  */
+
+fieldset {
+  border: none;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 0;
+  padding-right: 0;
+}

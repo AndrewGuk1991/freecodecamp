@@ -1,0 +1,13 @@
+/* Description: 
+
+Add some space between the .inline elements and the label text, by giving a right margin of 0.5em. Also, set all the other margin to 0.
+
+Solution:  */
+
+.inline {
+    width: unset;
+    margin-right: 0.5em;
+    margin-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+  }

@@ -1,0 +1,9 @@
+/* Description: 
+
+Next, give your .stat elements a padding-right of 10px.
+
+Solution:  */
+
+.stat {
+    padding-right: 10px;
+}

@@ -1,0 +1,14 @@
+/* Description: 
+
+Use margins to position the .one element on the canvas.
+
+Add the shorthand margin property with a vertical margin of 20px and a horizontal margin of auto.
+
+Solution:  */
+
+.one {
+    width: 425px;
+    height: 150px;
+    background-color: #efb762;
+    margin: 20px auto;
+}

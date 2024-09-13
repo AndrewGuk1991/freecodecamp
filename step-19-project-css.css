@@ -1,0 +1,11 @@
+/* Description: 
+
+Set the background-color of .one to #efb762.
+
+Solution:  */
+
+.one {
+    width: 425px;
+    height: 150px;
+    background-color: #efb762;
+}

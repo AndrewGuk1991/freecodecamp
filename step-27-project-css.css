@@ -1,0 +1,12 @@
+/* Description: 
+
+Center the .two element by setting its margin to auto.
+
+Solution:  */
+
+.two {
+    width: 475px;
+    height: 200px;
+    background-color: #8f0401;
+    margin: auto;
+}

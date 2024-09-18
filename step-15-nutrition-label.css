@@ -1,0 +1,9 @@
+/* Description: 
+
+Create a p selector and remove all margins.
+
+Solution:  */
+
+p {
+    margin: 0;
+}

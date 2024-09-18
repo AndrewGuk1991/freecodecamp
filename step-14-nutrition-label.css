@@ -1,0 +1,14 @@
+/* Description: 
+
+Fine-tune the placement of your h1 by giving it a top and bottom margin of -4px and a left and right margin of 0.
+
+Solution:  */
+
+h1 {
+    font-weight: 800;
+    text-align: center;
+    margin-top: -4px;
+    margin-bottom: -4px;
+    margin-right: 0;
+    margin-left: 0;
+}

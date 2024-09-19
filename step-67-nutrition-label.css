@@ -1,0 +1,11 @@
+/* Description: 
+
+Create a .note selector, and set the size of the font to 0.6rem. Also set the top and bottom margins to 5px, removing the left and right margins.
+
+Solution:  */
+
+.note {
+    font-size: 0.6rem;
+    margin-top: 5px;
+    margin: 5px 0;
+}

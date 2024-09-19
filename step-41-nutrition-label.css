@@ -1,0 +1,10 @@
+/* Description: 
+
+The text % Daily Value * should be aligned to the right. Create a .right selector and use the justify-content property to do it.
+
+Solution:  */
+
+.right {
+    display: flex;
+    justify-content: flex-end;
+}

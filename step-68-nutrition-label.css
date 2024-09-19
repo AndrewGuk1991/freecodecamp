@@ -1,0 +1,13 @@
+/* Description: 
+
+Give the .note selector a left and right padding of 8px, removing the top and bottom padding. Also set the text-indent property to -8px.
+
+With these last changes, your nutrition label is complete!
+
+Solution:  */
+
+.note {
+    font-size: 0.6rem;
+    padding: 0 8px;
+    text-indent: -8px;
+}

@@ -1,0 +1,16 @@
+/* Description: 
+
+Make the h3 elements appear as a higher priority, with the following CSS properties:
+
+Example Code
+margin-top: 5px;
+padding-left: 15px;
+font-size: 22px;
+
+Solution:  */
+
+h3 {
+    margin-top: 5px;
+    padding-left: 15px;
+    font-size: 22px;
+}

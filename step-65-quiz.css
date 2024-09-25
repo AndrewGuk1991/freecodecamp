@@ -1,0 +1,10 @@
+/* Description: 
+
+Horizontally center all the text within the address element, and add some padding.
+
+Solution:  */
+
+address {
+    text-align: center;
+    padding: 10px;
+}

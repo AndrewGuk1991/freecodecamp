@@ -6,6 +6,6 @@ Change the font color of all the anchor elements within the list elements to som
 
 Solution:  */
 
-li>a {
+li > a {
     color: inherit;
 }

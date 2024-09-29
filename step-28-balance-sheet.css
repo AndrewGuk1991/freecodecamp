@@ -1,0 +1,9 @@
+/* Description: 
+
+Time to style your table. Start by resetting the box model. Create an html selector and give it a box-sizing property set to border-box.
+
+Solution:  */
+
+html {
+    box-sizing: border-box;
+}

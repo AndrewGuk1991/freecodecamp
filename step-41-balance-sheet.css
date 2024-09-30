@@ -1,0 +1,14 @@
+/* Description: 
+
+Now apply some color to your #years. Make the text #fff and the background #0a0a23.
+
+Solution:  */
+
+#years {
+    display: flex;
+    justify-content: flex-end;
+    position: sticky;
+    top: 0;
+    color: #fff;
+    background-color: #0a0a23;
+}

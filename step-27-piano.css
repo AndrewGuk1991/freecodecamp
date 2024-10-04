@@ -1,0 +1,7 @@
+/* Description: 
+
+Add a media query that will be applied when the viewport is 768px wide and below.
+
+Solution:  */
+
+@media (max-width: 768px) {}
